@@ -1,2 +1,2 @@
-# node-ipfs-random-walk
-Node.js IPFS implementation of the discovery service through DHT random walking
+# node-libp2p-random-walk
+Node.js libp2p implementation of the discovery service through DHT random walking
